@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="english">
   <head>
-    <style>
-      .frame-container {
+    <style.frame-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -1353,8 +1352,7 @@
   line-height: 100%;
   font-stretch: normal;
   text-decoration: none;
-}
-  </style>
+} >
     <title>exported project</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
